@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I'm Anuj Kawane a Computer Science Graduate student from San Diego State University. I love to explore and learn about new domains.</h3>
+<!-- <h3 align="center">I'm Anuj Kawane a Computer Science Graduate student from San Diego State University. I love to explore and learn about new domains.</h3> -->
 
 - 📫 How to reach me **anuj.kawane@gmail.com**
 
